@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammed159159
 - 👀 I’m interested in improving myself and learning new skills
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on AI-related projects
+- 🌱 I’m currently learning web development 
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: mohammedhany300@gmail.com
 
 <!---
