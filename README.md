@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammed159159
-- 👀 I’m interested in creating web applications and APIs
-- 🌱 I’m currently learning Agile Development
-- 🤝 I’m looking to collaborate on web development projects
+- 👀 I’m currently interested in AI and autonomous robotics
+- 🌱 I’m currently learning LLMs
+- 🤝 I’m looking to collaborate on AI and robotics projects
 - 📫 How to reach me: mohammedhany300@gmail.com
 
 <!---
